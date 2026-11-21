@@ -1,0 +1,16 @@
+TUTOR DI CHITARRA ANDROID CON OCR
+
+Supporta TXT, CRD, PRO, ChordPro, PDF, JPG e PNG. Puoi anche scattare una fotografia usando la fotocamera del telefono.
+
+Lettura di foto e scansioni:
+- usa OCR Tesseract.js;
+- richiede Internet al primo uso per caricare il motore e le lingue italiano/inglese;
+- ritaglia la pagina, evita ombre e fotografa frontalmente;
+- controlla sempre gli accordi riconosciuti prima di avviare il tutor.
+
+PDF:
+- i PDF con testo incorporato vengono letti direttamente;
+- le pagine scansite vengono convertite in immagini e analizzate con OCR;
+- documenti lunghi possono richiedere diversi minuti.
+
+Installazione: pubblica tutti i file su HTTPS, apri index.html in Chrome Android e seleziona “Installa app” o “Aggiungi a schermata Home”.
